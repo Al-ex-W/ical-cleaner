@@ -13,7 +13,7 @@ def get_calendar():
         )
 
     return Response(
-        CAL_PATH.read_text(),
+        CAL_PATH.read_text(encoding="utf-8"),
         media_type="text/calendar",
         headers={
             "Cache-Control": "public, max-age=3600"
