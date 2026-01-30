@@ -1,3 +1,4 @@
+import os
 import requests
 from pathlib import Path
 
@@ -12,7 +13,7 @@ def update_calendar():
     resp.encoding = "latin-1"
     raw_ics = resp.text
 
-    llm = LLM(model="gpt-4o")
+    llm = LLM(model="gpt-5.2", api_key=os.environ["OPENAI_API_KEY"])
     prompt = get_prompt("restructure_ical", ical_content=raw_ics)
     result = llm.request(prompt)
 
