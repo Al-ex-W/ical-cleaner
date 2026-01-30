@@ -1,0 +1,1586 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:TimeEdit-DAT017_50_VT26_52113\, M
+ askinorienterad p...\, +1 Kurskod (2)-20260
+ 101
+X-WR-CALDESC:Date limit 2026-01-12 - 2031-02-02
+X-PUBLISHED-TTL:PT20M
+CALSCALE:GREGORIAN
+PRODID:-//TimeEdit\\\, //TimeEdit//EN
+BEGIN:VEVENT
+DTSTART:20260126T121500Z
+DTEND:20260126T140000Z
+UID:61280-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#eb412b9e-836c-47eb-9d33-1bcff14bca19
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och 
+ konstruktion av datorspel\, Aktivitet: Föreläsning\, Loka
+ lnamn: HC3. Lokaltyp: Hörsal. Map link: https://maps.chal
+ mers.se/#eb412b9e-836c-47eb-9d33-1bcff14bca19. Hus: Hörsa
+ lslängan. Campus: Johanneberg\, Klasskod: TKITE-3\, Klass
+ kod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 61280
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260126T141500Z
+DTEND:20260126T160000Z
+UID:61335-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#c108cdcb-c9ce-4f6b-b12f-10e3a54fd860
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och kon
+ struktion av datorspel\, Aktivitet: Datorövning\, Lokalnamn:
+  SB-D309. Lokaltyp: Datorsal. Map link: https://maps.chalmer
+ s.se/#c108cdcb-c9ce-4f6b-b12f-10e3a54fd860. Hus: SB2. Campus
+ : Johanneberg\, Lokalnamn: SB-D409. Lokaltyp: Datorsal. Map 
+ link: https://maps.chalmers.se/#6ee7d908-6be4-4faf-a503-1050
+ d05550f8. Hus: SB2. Campus: Johanneberg\, Klasskod: TKITE-3\
+ , Klasskod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 61335
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T070000Z
+DTEND:20260127T084500Z
+UID:81323-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 81323
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T090000Z
+DTEND:20260127T104500Z
+UID:81342-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 81342
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T121500Z
+DTEND:20260127T140000Z
+UID:61396-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 61396
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T141500Z
+DTEND:20260127T160000Z
+UID:61370-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#971e00c6-6f9a-46ce-9894-687adb1fa8ea
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorient
+ erad programmering\, Kurskod: EDA482_50_VT26_49134. Kursna
+ mn: Maskinorienterad programmering\, Aktivitet: Föreläsnin
+ g\, Lokalnamn: HA1. Lokaltyp: Hörsal. Map link: https://ma
+ ps.chalmers.se/#971e00c6-6f9a-46ce-9894-687adb1fa8ea. Hus:
+  Hörsalslängan. Campus: Johanneberg\, Klasskod: TKITE-2\, 
+ Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 61370
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T121500Z
+DTEND:20260128T140000Z
+UID:81353-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorientera
+ d programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Ma
+ skinorienterad programmering\, Aktivitet: Datorövning\, Lokal
+ namn: ES62. Lokaltyp: Datorsal. Map link: https://maps.chalme
+ rs.se/#17b84900-803a-4b56-afc9-f0910862a410. Hus: ED-blocket.
+  Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp: Datorsal. M
+ ap link: https://maps.chalmers.se/#6d76b902-5080-4263-860b-81
+ 7a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Klasskod: 
+ TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 81353
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260128T141500Z
+DTEND:20260128T160000Z
+UID:81354-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorientera
+ d programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Ma
+ skinorienterad programmering\, Aktivitet: Datorövning\, Lokal
+ namn: ES62. Lokaltyp: Datorsal. Map link: https://maps.chalme
+ rs.se/#17b84900-803a-4b56-afc9-f0910862a410. Hus: ED-blocket.
+  Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp: Datorsal. M
+ ap link: https://maps.chalmers.se/#6d76b902-5080-4263-860b-81
+ 7a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Klasskod: 
+ TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 81354
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260129T070000Z
+DTEND:20260129T084500Z
+UID:61273-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#eb412b9e-836c-47eb-9d33-1bcff14bca19
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och 
+ konstruktion av datorspel\, Aktivitet: Föreläsning\, Loka
+ lnamn: HC3. Lokaltyp: Hörsal. Map link: https://maps.chal
+ mers.se/#eb412b9e-836c-47eb-9d33-1bcff14bca19. Hus: Hörsa
+ lslängan. Campus: Johanneberg\, Klasskod: TKITE-3\, Klass
+ kod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 61273
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260129T090000Z
+DTEND:20260129T104500Z
+UID:61287-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#a61bf3c1-5c75-4257-87bc-ae5b11672308
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och konst
+ ruktion av datorspel\, Aktivitet: Datorövning\, Lokalnamn: HB1
+ 05. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#a6
+ 1bf3c1-5c75-4257-87bc-ae5b11672308. Hus: Hörsalslängan. Campus
+ : Johanneberg\, Lokalnamn: HB110. Lokaltyp: Datorsal. Map link
+ : https://maps.chalmers.se/#74db6c8e-14f8-4973-8254-f6a163d95a
+ 7e. Hus: Hörsalslängan. Campus: Johanneberg\, Klasskod: TKITE-
+ 3\, Klasskod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 61287
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260129T121500Z
+DTEND:20260129T140000Z
+UID:81305-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 81305
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260129T141500Z
+DTEND:20260129T160000Z
+UID:61390-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 61390
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T121500Z
+DTEND:20260130T140000Z
+UID:61371-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#971e00c6-6f9a-46ce-9894-687adb1fa8ea
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorient
+ erad programmering\, Kurskod: EDA482_50_VT26_49134. Kursna
+ mn: Maskinorienterad programmering\, Aktivitet: Föreläsnin
+ g\, Lokalnamn: HA1. Lokaltyp: Hörsal. Map link: https://ma
+ ps.chalmers.se/#971e00c6-6f9a-46ce-9894-687adb1fa8ea. Hus:
+  Hörsalslängan. Campus: Johanneberg\, Klasskod: TKITE-2\, 
+ Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 61371
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T141500Z
+DTEND:20260130T160000Z
+UID:61320-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#e1633b1c-d885-4c7f-aa9e-2013d9a617c5
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och kon
+ struktion av datorspel\, Aktivitet: Datorövning\, Lokalnamn:
+  SB-D509. Lokaltyp: Datorsal. Map link: https://maps.chalmer
+ s.se/#e1633b1c-d885-4c7f-aa9e-2013d9a617c5. Hus: SB2. Campus
+ : Johanneberg\, Lokalnamn: SB-L516. Lokaltyp: Lektionssal. M
+ ap link: https://maps.chalmers.se/#68da14d7-f5bc-4135-a232-8
+ 3625a85791b. Hus: SB2. Campus: Johanneberg\, Klasskod: TKITE
+ -3\, Klasskod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 61320
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T141500Z
+DTEND:20260130T160000Z
+UID:81253-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: D
+ esign och konstruktion av datorspel\, Aktivitet
+ : Handledning\, Klasskod: TKITE-3\, Klasskod: T
+ KITE-2
+LOCATION:
+DESCRIPTION:ID 81253
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260130T141500Z
+DTEND:20260130T160000Z
+UID:81351-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorientera
+ d programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Ma
+ skinorienterad programmering\, Aktivitet: Datorövning\, Lokal
+ namn: ES62. Lokaltyp: Datorsal. Map link: https://maps.chalme
+ rs.se/#17b84900-803a-4b56-afc9-f0910862a410. Hus: ED-blocket.
+  Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp: Datorsal. M
+ ap link: https://maps.chalmers.se/#6d76b902-5080-4263-860b-81
+ 7a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Klasskod: 
+ TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 81351
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260202T121500Z
+DTEND:20260202T140000Z
+UID:61281-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#eb412b9e-836c-47eb-9d33-1bcff14bca19
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och 
+ konstruktion av datorspel\, Aktivitet: Föreläsning\, Loka
+ lnamn: HC3. Lokaltyp: Hörsal. Map link: https://maps.chal
+ mers.se/#eb412b9e-836c-47eb-9d33-1bcff14bca19. Hus: Hörsa
+ lslängan. Campus: Johanneberg\, Klasskod: TKITE-3\, Klass
+ kod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 61281
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260202T141500Z
+DTEND:20260202T160000Z
+UID:61336-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#c108cdcb-c9ce-4f6b-b12f-10e3a54fd860
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och kon
+ struktion av datorspel\, Aktivitet: Datorövning\, Lokalnamn:
+  SB-D309. Lokaltyp: Datorsal. Map link: https://maps.chalmer
+ s.se/#c108cdcb-c9ce-4f6b-b12f-10e3a54fd860. Hus: SB2. Campus
+ : Johanneberg\, Lokalnamn: SB-D409. Lokaltyp: Datorsal. Map 
+ link: https://maps.chalmers.se/#6ee7d908-6be4-4faf-a503-1050
+ d05550f8. Hus: SB2. Campus: Johanneberg\, Klasskod: TKITE-3\
+ , Klasskod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 61336
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260202T161500Z
+DTEND:20260202T180000Z
+UID:86065-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorie
+ nterad programmering\, Kurskod: EDA482_50_VT26_49134. Ku
+ rsnamn: Maskinorienterad programmering\, Aktivitet: Labo
+ ration\, Lokalnamn: ED4220. Lokaltyp: Datorsal. Hus: ED-
+ blocket. Campus: Johanneberg\, Klasskod: TKITE-2\, Klass
+ kod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 86065
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T070000Z
+DTEND:20260203T084500Z
+UID:81327-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 81327
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T070000Z
+DTEND:20260203T084500Z
+UID:86072-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorie
+ nterad programmering\, Kurskod: EDA482_50_VT26_49134. Ku
+ rsnamn: Maskinorienterad programmering\, Aktivitet: Labo
+ ration\, Lokalnamn: ED4220. Lokaltyp: Datorsal. Hus: ED-
+ blocket. Campus: Johanneberg\, Klasskod: TKITE-2\, Klass
+ kod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 86072
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T090000Z
+DTEND:20260203T104500Z
+UID:81328-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 81328
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T090000Z
+DTEND:20260203T104500Z
+UID:86071-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorie
+ nterad programmering\, Kurskod: EDA482_50_VT26_49134. Ku
+ rsnamn: Maskinorienterad programmering\, Aktivitet: Labo
+ ration\, Lokalnamn: ED4220. Lokaltyp: Datorsal. Hus: ED-
+ blocket. Campus: Johanneberg\, Klasskod: TKITE-2\, Klass
+ kod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 86071
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T121500Z
+DTEND:20260203T140000Z
+UID:61397-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 61397
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T141500Z
+DTEND:20260203T160000Z
+UID:61372-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#971e00c6-6f9a-46ce-9894-687adb1fa8ea
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorient
+ erad programmering\, Kurskod: EDA482_50_VT26_49134. Kursna
+ mn: Maskinorienterad programmering\, Aktivitet: Föreläsnin
+ g\, Lokalnamn: HA1. Lokaltyp: Hörsal. Map link: https://ma
+ ps.chalmers.se/#971e00c6-6f9a-46ce-9894-687adb1fa8ea. Hus:
+  Hörsalslängan. Campus: Johanneberg\, Klasskod: TKITE-2\, 
+ Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 61372
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260203T161500Z
+DTEND:20260203T180000Z
+UID:86074-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorie
+ nterad programmering\, Kurskod: EDA482_50_VT26_49134. Ku
+ rsnamn: Maskinorienterad programmering\, Aktivitet: Labo
+ ration\, Lokalnamn: ED4220. Lokaltyp: Datorsal. Hus: ED-
+ blocket. Campus: Johanneberg\, Klasskod: TKITE-2\, Klass
+ kod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 86074
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T161500Z
+DTEND:20260204T180000Z
+UID:86064-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorie
+ nterad programmering\, Kurskod: EDA482_50_VT26_49134. Ku
+ rsnamn: Maskinorienterad programmering\, Aktivitet: Labo
+ ration\, Lokalnamn: ED4220. Lokaltyp: Datorsal. Hus: ED-
+ blocket. Campus: Johanneberg\, Klasskod: TKITE-2\, Klass
+ kod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 86064
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260205T070000Z
+DTEND:20260205T084500Z
+UID:61274-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#eb412b9e-836c-47eb-9d33-1bcff14bca19
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och 
+ konstruktion av datorspel\, Aktivitet: Föreläsning\, Loka
+ lnamn: HC3. Lokaltyp: Hörsal. Map link: https://maps.chal
+ mers.se/#eb412b9e-836c-47eb-9d33-1bcff14bca19. Hus: Hörsa
+ lslängan. Campus: Johanneberg\, Klasskod: TKITE-3\, Klass
+ kod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 61274
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260205T090000Z
+DTEND:20260205T104500Z
+UID:61314-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#a61bf3c1-5c75-4257-87bc-ae5b11672308
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och konst
+ ruktion av datorspel\, Aktivitet: Datorövning\, Lokalnamn: HB1
+ 05. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#a6
+ 1bf3c1-5c75-4257-87bc-ae5b11672308. Hus: Hörsalslängan. Campus
+ : Johanneberg\, Lokalnamn: HB110. Lokaltyp: Datorsal. Map link
+ : https://maps.chalmers.se/#74db6c8e-14f8-4973-8254-f6a163d95a
+ 7e. Hus: Hörsalslängan. Campus: Johanneberg\, Klasskod: TKITE-
+ 3\, Klasskod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 61314
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260205T121500Z
+DTEND:20260205T140000Z
+UID:81306-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 81306
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260205T141500Z
+DTEND:20260205T160000Z
+UID:61391-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 61391
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260205T161500Z
+DTEND:20260205T180000Z
+UID:86073-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorie
+ nterad programmering\, Kurskod: EDA482_50_VT26_49134. Ku
+ rsnamn: Maskinorienterad programmering\, Aktivitet: Labo
+ ration\, Lokalnamn: ED4220. Lokaltyp: Datorsal. Hus: ED-
+ blocket. Campus: Johanneberg\, Klasskod: TKITE-2\, Klass
+ kod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 86073
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T090000Z
+DTEND:20260206T104500Z
+UID:86067-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorie
+ nterad programmering\, Kurskod: EDA482_50_VT26_49134. Ku
+ rsnamn: Maskinorienterad programmering\, Aktivitet: Labo
+ ration\, Lokalnamn: ED4220. Lokaltyp: Datorsal. Hus: ED-
+ blocket. Campus: Johanneberg\, Klasskod: TKITE-2\, Klass
+ kod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 86067
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T121500Z
+DTEND:20260206T140000Z
+UID:61373-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#971e00c6-6f9a-46ce-9894-687adb1fa8ea
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorient
+ erad programmering\, Kurskod: EDA482_50_VT26_49134. Kursna
+ mn: Maskinorienterad programmering\, Aktivitet: Föreläsnin
+ g\, Lokalnamn: HA1. Lokaltyp: Hörsal. Map link: https://ma
+ ps.chalmers.se/#971e00c6-6f9a-46ce-9894-687adb1fa8ea. Hus:
+  Hörsalslängan. Campus: Johanneberg\, Klasskod: TKITE-2\, 
+ Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 61373
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T141500Z
+DTEND:20260206T160000Z
+UID:61321-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#e1633b1c-d885-4c7f-aa9e-2013d9a617c5
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och kon
+ struktion av datorspel\, Aktivitet: Datorövning\, Lokalnamn:
+  SB-D509. Lokaltyp: Datorsal. Map link: https://maps.chalmer
+ s.se/#e1633b1c-d885-4c7f-aa9e-2013d9a617c5. Hus: SB2. Campus
+ : Johanneberg\, Lokalnamn: SB-L516. Lokaltyp: Lektionssal. M
+ ap link: https://maps.chalmers.se/#68da14d7-f5bc-4135-a232-8
+ 3625a85791b. Hus: SB2. Campus: Johanneberg\, Klasskod: TKITE
+ -3\, Klasskod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 61321
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T141500Z
+DTEND:20260206T160000Z
+UID:81254-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: D
+ esign och konstruktion av datorspel\, Aktivitet
+ : Handledning\, Klasskod: TKITE-3\, Klasskod: T
+ KITE-2
+LOCATION:
+DESCRIPTION:ID 81254
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T141500Z
+DTEND:20260206T160000Z
+UID:81350-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorientera
+ d programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Ma
+ skinorienterad programmering\, Aktivitet: Datorövning\, Lokal
+ namn: ES62. Lokaltyp: Datorsal. Map link: https://maps.chalme
+ rs.se/#17b84900-803a-4b56-afc9-f0910862a410. Hus: ED-blocket.
+  Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp: Datorsal. M
+ ap link: https://maps.chalmers.se/#6d76b902-5080-4263-860b-81
+ 7a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Klasskod: 
+ TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 81350
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T141500Z
+DTEND:20260206T160000Z
+UID:86066-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorie
+ nterad programmering\, Kurskod: EDA482_50_VT26_49134. Ku
+ rsnamn: Maskinorienterad programmering\, Aktivitet: Labo
+ ration\, Lokalnamn: ED4220. Lokaltyp: Datorsal. Hus: ED-
+ blocket. Campus: Johanneberg\, Klasskod: TKITE-2\, Klass
+ kod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 86066
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260206T161500Z
+DTEND:20260206T180000Z
+UID:86061-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorie
+ nterad programmering\, Kurskod: EDA482_50_VT26_49134. Ku
+ rsnamn: Maskinorienterad programmering\, Aktivitet: Labo
+ ration\, Lokalnamn: ED4220. Lokaltyp: Datorsal. Hus: ED-
+ blocket. Campus: Johanneberg\, Klasskod: TKITE-2\, Klass
+ kod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 86061
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260209T090000Z
+DTEND:20260209T104500Z
+UID:61375-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#971e00c6-6f9a-46ce-9894-687adb1fa8ea
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorient
+ erad programmering\, Kurskod: EDA482_50_VT26_49134. Kursna
+ mn: Maskinorienterad programmering\, Aktivitet: Föreläsnin
+ g\, Lokalnamn: HA1. Lokaltyp: Hörsal. Map link: https://ma
+ ps.chalmers.se/#971e00c6-6f9a-46ce-9894-687adb1fa8ea. Hus:
+  Hörsalslängan. Campus: Johanneberg\, Klasskod: TKITE-2\, 
+ Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 61375
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260209T121500Z
+DTEND:20260209T140000Z
+UID:61282-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#eb412b9e-836c-47eb-9d33-1bcff14bca19
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och 
+ konstruktion av datorspel\, Aktivitet: Föreläsning\, Loka
+ lnamn: HC3. Lokaltyp: Hörsal. Map link: https://maps.chal
+ mers.se/#eb412b9e-836c-47eb-9d33-1bcff14bca19. Hus: Hörsa
+ lslängan. Campus: Johanneberg\, Klasskod: TKITE-3\, Klass
+ kod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 61282
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260209T141500Z
+DTEND:20260209T160000Z
+UID:61337-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#c108cdcb-c9ce-4f6b-b12f-10e3a54fd860
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och kon
+ struktion av datorspel\, Aktivitet: Datorövning\, Lokalnamn:
+  SB-D309. Lokaltyp: Datorsal. Map link: https://maps.chalmer
+ s.se/#c108cdcb-c9ce-4f6b-b12f-10e3a54fd860. Hus: SB2. Campus
+ : Johanneberg\, Lokalnamn: SB-D409. Lokaltyp: Datorsal. Map 
+ link: https://maps.chalmers.se/#6ee7d908-6be4-4faf-a503-1050
+ d05550f8. Hus: SB2. Campus: Johanneberg\, Klasskod: TKITE-3\
+ , Klasskod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 61337
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260210T070000Z
+DTEND:20260210T084500Z
+UID:81329-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 81329
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260210T090000Z
+DTEND:20260210T104500Z
+UID:81330-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 81330
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260210T121500Z
+DTEND:20260210T140000Z
+UID:61398-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 61398
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260210T141500Z
+DTEND:20260210T160000Z
+UID:61374-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#971e00c6-6f9a-46ce-9894-687adb1fa8ea
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorient
+ erad programmering\, Kurskod: EDA482_50_VT26_49134. Kursna
+ mn: Maskinorienterad programmering\, Aktivitet: Föreläsnin
+ g\, Lokalnamn: HA1. Lokaltyp: Hörsal. Map link: https://ma
+ ps.chalmers.se/#971e00c6-6f9a-46ce-9894-687adb1fa8ea. Hus:
+  Hörsalslängan. Campus: Johanneberg\, Klasskod: TKITE-2\, 
+ Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 61374
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260212T070000Z
+DTEND:20260212T084500Z
+UID:61275-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#eb412b9e-836c-47eb-9d33-1bcff14bca19
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och 
+ konstruktion av datorspel\, Aktivitet: Föreläsning\, Loka
+ lnamn: HC3. Lokaltyp: Hörsal. Map link: https://maps.chal
+ mers.se/#eb412b9e-836c-47eb-9d33-1bcff14bca19. Hus: Hörsa
+ lslängan. Campus: Johanneberg\, Klasskod: TKITE-3\, Klass
+ kod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 61275
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260212T090000Z
+DTEND:20260212T104500Z
+UID:61315-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#a61bf3c1-5c75-4257-87bc-ae5b11672308
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och konst
+ ruktion av datorspel\, Aktivitet: Datorövning\, Lokalnamn: HB1
+ 05. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#a6
+ 1bf3c1-5c75-4257-87bc-ae5b11672308. Hus: Hörsalslängan. Campus
+ : Johanneberg\, Lokalnamn: HB110. Lokaltyp: Datorsal. Map link
+ : https://maps.chalmers.se/#74db6c8e-14f8-4973-8254-f6a163d95a
+ 7e. Hus: Hörsalslängan. Campus: Johanneberg\, Klasskod: TKITE-
+ 3\, Klasskod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 61315
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260212T121500Z
+DTEND:20260212T140000Z
+UID:81307-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 81307
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260212T141500Z
+DTEND:20260212T160000Z
+UID:61392-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 61392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260213T141500Z
+DTEND:20260213T160000Z
+UID:61322-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#e1633b1c-d885-4c7f-aa9e-2013d9a617c5
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och kon
+ struktion av datorspel\, Aktivitet: Datorövning\, Lokalnamn:
+  SB-D509. Lokaltyp: Datorsal. Map link: https://maps.chalmer
+ s.se/#e1633b1c-d885-4c7f-aa9e-2013d9a617c5. Hus: SB2. Campus
+ : Johanneberg\, Lokalnamn: SB-L516. Lokaltyp: Lektionssal. M
+ ap link: https://maps.chalmers.se/#68da14d7-f5bc-4135-a232-8
+ 3625a85791b. Hus: SB2. Campus: Johanneberg\, Klasskod: TKITE
+ -3\, Klasskod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 61322
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260213T141500Z
+DTEND:20260213T160000Z
+UID:81345-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorientera
+ d programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Ma
+ skinorienterad programmering\, Aktivitet: Datorövning\, Lokal
+ namn: ES62. Lokaltyp: Datorsal. Map link: https://maps.chalme
+ rs.se/#17b84900-803a-4b56-afc9-f0910862a410. Hus: ED-blocket.
+  Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp: Datorsal. M
+ ap link: https://maps.chalmers.se/#6d76b902-5080-4263-860b-81
+ 7a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Klasskod: 
+ TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 81345
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T121500Z
+DTEND:20260216T140000Z
+UID:61283-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#c108cdcb-c9ce-4f6b-b12f-10e3a54fd860
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och kon
+ struktion av datorspel\, Aktivitet: Datorövning\, Lokalnamn:
+  SB-D309. Lokaltyp: Datorsal. Map link: https://maps.chalmer
+ s.se/#c108cdcb-c9ce-4f6b-b12f-10e3a54fd860. Hus: SB2. Campus
+ : Johanneberg\, Lokalnamn: SB-D409. Lokaltyp: Datorsal. Map 
+ link: https://maps.chalmers.se/#6ee7d908-6be4-4faf-a503-1050
+ d05550f8. Hus: SB2. Campus: Johanneberg\, Klasskod: TKITE-3\
+ , Klasskod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 61283
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T141500Z
+DTEND:20260216T160000Z
+UID:61338-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#c108cdcb-c9ce-4f6b-b12f-10e3a54fd860
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och kon
+ struktion av datorspel\, Aktivitet: Datorövning\, Lokalnamn:
+  SB-D309. Lokaltyp: Datorsal. Map link: https://maps.chalmer
+ s.se/#c108cdcb-c9ce-4f6b-b12f-10e3a54fd860. Hus: SB2. Campus
+ : Johanneberg\, Lokalnamn: SB-D409. Lokaltyp: Datorsal. Map 
+ link: https://maps.chalmers.se/#6ee7d908-6be4-4faf-a503-1050
+ d05550f8. Hus: SB2. Campus: Johanneberg\, Klasskod: TKITE-3\
+ , Klasskod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 61338
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260216T161500Z
+DTEND:20260216T180000Z
+UID:86069-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorie
+ nterad programmering\, Kurskod: EDA482_50_VT26_49134. Ku
+ rsnamn: Maskinorienterad programmering\, Aktivitet: Labo
+ ration\, Lokalnamn: ED4225. Lokaltyp: Datorsal. Hus: ED-
+ blocket. Campus: Johanneberg\, Klasskod: TKITE-2\, Klass
+ kod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 86069
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T070000Z
+DTEND:20260217T084500Z
+UID:81331-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 81331
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T070000Z
+DTEND:20260217T084500Z
+UID:86001-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorie
+ nterad programmering\, Kurskod: EDA482_50_VT26_49134. Ku
+ rsnamn: Maskinorienterad programmering\, Aktivitet: Labo
+ ration\, Lokalnamn: ED4225. Lokaltyp: Datorsal. Hus: ED-
+ blocket. Campus: Johanneberg\, Klasskod: TKITE-2\, Klass
+ kod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 86001
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T090000Z
+DTEND:20260217T104500Z
+UID:81332-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 81332
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T090000Z
+DTEND:20260217T104500Z
+UID:86002-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorie
+ nterad programmering\, Kurskod: EDA482_50_VT26_49134. Ku
+ rsnamn: Maskinorienterad programmering\, Aktivitet: Labo
+ ration\, Lokalnamn: ED4225. Lokaltyp: Datorsal. Hus: ED-
+ blocket. Campus: Johanneberg\, Klasskod: TKITE-2\, Klass
+ kod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 86002
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T121500Z
+DTEND:20260217T140000Z
+UID:61399-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 61399
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T141500Z
+DTEND:20260217T160000Z
+UID:85975-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#971e00c6-6f9a-46ce-9894-687adb1fa8ea
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorient
+ erad programmering\, Kurskod: EDA482_50_VT26_49134. Kursna
+ mn: Maskinorienterad programmering\, Aktivitet: Föreläsnin
+ g\, Lokalnamn: HA1. Lokaltyp: Hörsal. Map link: https://ma
+ ps.chalmers.se/#971e00c6-6f9a-46ce-9894-687adb1fa8ea. Hus:
+  Hörsalslängan. Campus: Johanneberg\, Klasskod: TKITE-2\, 
+ Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 85975
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T141500Z
+DTEND:20260218T160000Z
+UID:81308-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 81308
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260218T161500Z
+DTEND:20260218T180000Z
+UID:85996-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorie
+ nterad programmering\, Kurskod: EDA482_50_VT26_49134. Ku
+ rsnamn: Maskinorienterad programmering\, Aktivitet: Labo
+ ration\, Lokalnamn: ED4220. Lokaltyp: Datorsal. Hus: ED-
+ blocket. Campus: Johanneberg\, Klasskod: TKITE-2\, Klass
+ kod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 85996
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T070000Z
+DTEND:20260219T084500Z
+UID:81239-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#a61bf3c1-5c75-4257-87bc-ae5b11672308
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och konst
+ ruktion av datorspel\, Aktivitet: Datorövning\, Lokalnamn: HB1
+ 05. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#a6
+ 1bf3c1-5c75-4257-87bc-ae5b11672308. Hus: Hörsalslängan. Campus
+ : Johanneberg\, Lokalnamn: HB110. Lokaltyp: Datorsal. Map link
+ : https://maps.chalmers.se/#74db6c8e-14f8-4973-8254-f6a163d95a
+ 7e. Hus: Hörsalslängan. Campus: Johanneberg\, Klasskod: TKITE-
+ 3\, Klasskod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 81239
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T090000Z
+DTEND:20260219T104500Z
+UID:61316-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#a61bf3c1-5c75-4257-87bc-ae5b11672308
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och konst
+ ruktion av datorspel\, Aktivitet: Datorövning\, Lokalnamn: HB1
+ 05. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#a6
+ 1bf3c1-5c75-4257-87bc-ae5b11672308. Hus: Hörsalslängan. Campus
+ : Johanneberg\, Lokalnamn: HB110. Lokaltyp: Datorsal. Map link
+ : https://maps.chalmers.se/#74db6c8e-14f8-4973-8254-f6a163d95a
+ 7e. Hus: Hörsalslängan. Campus: Johanneberg\, Klasskod: TKITE-
+ 3\, Klasskod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 61316
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T121500Z
+DTEND:20260219T140000Z
+UID:86000-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorie
+ nterad programmering\, Kurskod: EDA482_50_VT26_49134. Ku
+ rsnamn: Maskinorienterad programmering\, Aktivitet: Labo
+ ration\, Lokalnamn: ED4220. Lokaltyp: Datorsal. Hus: ED-
+ blocket. Campus: Johanneberg\, Klasskod: TKITE-2\, Klass
+ kod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 86000
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T141500Z
+DTEND:20260219T160000Z
+UID:61393-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 61393
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T141500Z
+DTEND:20260219T160000Z
+UID:85999-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorie
+ nterad programmering\, Kurskod: EDA482_50_VT26_49134. Ku
+ rsnamn: Maskinorienterad programmering\, Aktivitet: Labo
+ ration\, Lokalnamn: ED4220. Lokaltyp: Datorsal. Hus: ED-
+ blocket. Campus: Johanneberg\, Klasskod: TKITE-2\, Klass
+ kod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 85999
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T090000Z
+DTEND:20260220T104500Z
+UID:86005-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorie
+ nterad programmering\, Kurskod: EDA482_50_VT26_49134. Ku
+ rsnamn: Maskinorienterad programmering\, Aktivitet: Labo
+ ration\, Lokalnamn: ED4225. Lokaltyp: Datorsal. Hus: ED-
+ blocket. Campus: Johanneberg\, Klasskod: TKITE-2\, Klass
+ kod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 86005
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T121500Z
+DTEND:20260220T140000Z
+UID:61378-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#971e00c6-6f9a-46ce-9894-687adb1fa8ea
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorient
+ erad programmering\, Kurskod: EDA482_50_VT26_49134. Kursna
+ mn: Maskinorienterad programmering\, Aktivitet: Föreläsnin
+ g\, Lokalnamn: HA1. Lokaltyp: Hörsal. Map link: https://ma
+ ps.chalmers.se/#971e00c6-6f9a-46ce-9894-687adb1fa8ea. Hus:
+  Hörsalslängan. Campus: Johanneberg\, Klasskod: TKITE-2\, 
+ Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 61378
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T141500Z
+DTEND:20260220T160000Z
+UID:61323-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#e1633b1c-d885-4c7f-aa9e-2013d9a617c5
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och kon
+ struktion av datorspel\, Aktivitet: Datorövning\, Lokalnamn:
+  SB-D509. Lokaltyp: Datorsal. Map link: https://maps.chalmer
+ s.se/#e1633b1c-d885-4c7f-aa9e-2013d9a617c5. Hus: SB2. Campus
+ : Johanneberg\, Lokalnamn: SB-L516. Lokaltyp: Lektionssal. M
+ ap link: https://maps.chalmers.se/#68da14d7-f5bc-4135-a232-8
+ 3625a85791b. Hus: SB2. Campus: Johanneberg\, Klasskod: TKITE
+ -3\, Klasskod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 61323
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T141500Z
+DTEND:20260220T160000Z
+UID:81256-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: D
+ esign och konstruktion av datorspel\, Aktivitet
+ : Handledning\, Klasskod: TKITE-3\, Klasskod: T
+ KITE-2
+LOCATION:
+DESCRIPTION:ID 81256
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T141500Z
+DTEND:20260220T160000Z
+UID:81346-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorientera
+ d programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Ma
+ skinorienterad programmering\, Aktivitet: Datorövning\, Lokal
+ namn: ES62. Lokaltyp: Datorsal. Map link: https://maps.chalme
+ rs.se/#17b84900-803a-4b56-afc9-f0910862a410. Hus: ED-blocket.
+  Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp: Datorsal. M
+ ap link: https://maps.chalmers.se/#6d76b902-5080-4263-860b-81
+ 7a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Klasskod: 
+ TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 81346
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T141500Z
+DTEND:20260220T160000Z
+UID:86006-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorie
+ nterad programmering\, Kurskod: EDA482_50_VT26_49134. Ku
+ rsnamn: Maskinorienterad programmering\, Aktivitet: Labo
+ ration\, Lokalnamn: ED4220. Lokaltyp: Datorsal. Hus: ED-
+ blocket. Campus: Johanneberg\, Klasskod: TKITE-2\, Klass
+ kod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 86006
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T161500Z
+DTEND:20260220T180000Z
+UID:85998-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorie
+ nterad programmering\, Kurskod: EDA482_50_VT26_49134. Ku
+ rsnamn: Maskinorienterad programmering\, Aktivitet: Labo
+ ration\, Lokalnamn: ED4220. Lokaltyp: Datorsal. Hus: ED-
+ blocket. Campus: Johanneberg\, Klasskod: TKITE-2\, Klass
+ kod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 85998
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260223T121500Z
+DTEND:20260223T140000Z
+UID:81233-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#c108cdcb-c9ce-4f6b-b12f-10e3a54fd860
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och kon
+ struktion av datorspel\, Aktivitet: Datorövning\, Lokalnamn:
+  SB-D309. Lokaltyp: Datorsal. Map link: https://maps.chalmer
+ s.se/#c108cdcb-c9ce-4f6b-b12f-10e3a54fd860. Hus: SB2. Campus
+ : Johanneberg\, Lokalnamn: SB-D409. Lokaltyp: Datorsal. Map 
+ link: https://maps.chalmers.se/#6ee7d908-6be4-4faf-a503-1050
+ d05550f8. Hus: SB2. Campus: Johanneberg\, Klasskod: TKITE-3\
+ , Klasskod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 81233
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260223T141500Z
+DTEND:20260223T160000Z
+UID:61339-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#c108cdcb-c9ce-4f6b-b12f-10e3a54fd860
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och kon
+ struktion av datorspel\, Aktivitet: Datorövning\, Lokalnamn:
+  SB-D309. Lokaltyp: Datorsal. Map link: https://maps.chalmer
+ s.se/#c108cdcb-c9ce-4f6b-b12f-10e3a54fd860. Hus: SB2. Campus
+ : Johanneberg\, Lokalnamn: SB-D409. Lokaltyp: Datorsal. Map 
+ link: https://maps.chalmers.se/#6ee7d908-6be4-4faf-a503-1050
+ d05550f8. Hus: SB2. Campus: Johanneberg\, Klasskod: TKITE-3\
+ , Klasskod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 61339
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260224T070000Z
+DTEND:20260224T084500Z
+UID:81333-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 81333
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260224T090000Z
+DTEND:20260224T104500Z
+UID:81334-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 81334
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260224T121500Z
+DTEND:20260224T140000Z
+UID:61400-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 61400
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260224T141500Z
+DTEND:20260224T160000Z
+UID:61380-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#971e00c6-6f9a-46ce-9894-687adb1fa8ea
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorient
+ erad programmering\, Kurskod: EDA482_50_VT26_49134. Kursna
+ mn: Maskinorienterad programmering\, Aktivitet: Föreläsnin
+ g\, Lokalnamn: HA1. Lokaltyp: Hörsal. Map link: https://ma
+ ps.chalmers.se/#971e00c6-6f9a-46ce-9894-687adb1fa8ea. Hus:
+  Hörsalslängan. Campus: Johanneberg\, Klasskod: TKITE-2\, 
+ Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 61380
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260226T070000Z
+DTEND:20260226T084500Z
+UID:81240-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#a61bf3c1-5c75-4257-87bc-ae5b11672308
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och konst
+ ruktion av datorspel\, Aktivitet: Datorövning\, Lokalnamn: HB1
+ 05. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#a6
+ 1bf3c1-5c75-4257-87bc-ae5b11672308. Hus: Hörsalslängan. Campus
+ : Johanneberg\, Lokalnamn: HB110. Lokaltyp: Datorsal. Map link
+ : https://maps.chalmers.se/#74db6c8e-14f8-4973-8254-f6a163d95a
+ 7e. Hus: Hörsalslängan. Campus: Johanneberg\, Klasskod: TKITE-
+ 3\, Klasskod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 81240
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260226T090000Z
+DTEND:20260226T104500Z
+UID:61317-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#a61bf3c1-5c75-4257-87bc-ae5b11672308
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och konst
+ ruktion av datorspel\, Aktivitet: Datorövning\, Lokalnamn: HB1
+ 05. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#a6
+ 1bf3c1-5c75-4257-87bc-ae5b11672308. Hus: Hörsalslängan. Campus
+ : Johanneberg\, Lokalnamn: HB110. Lokaltyp: Datorsal. Map link
+ : https://maps.chalmers.se/#74db6c8e-14f8-4973-8254-f6a163d95a
+ 7e. Hus: Hörsalslängan. Campus: Johanneberg\, Klasskod: TKITE-
+ 3\, Klasskod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 61317
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260226T121500Z
+DTEND:20260226T140000Z
+UID:81309-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 81309
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260226T141500Z
+DTEND:20260226T160000Z
+UID:61394-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#f35ac15d-3889-4f81-b192-b9c36d363185
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorienterad 
+ programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Maskin
+ orienterad programmering\, Aktivitet: Datorövning\, Lokalnamn: 
+ ES61. Lokaltyp: Datorsal. Map link: https://maps.chalmers.se/#f
+ 35ac15d-3889-4f81-b192-b9c36d363185. Hus: ED-blocket. Campus: J
+ ohanneberg\, Lokalnamn: ES62. Lokaltyp: Datorsal. Map link: htt
+ ps://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410. Hu
+ s: ED-blocket. Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp:
+  Datorsal. Map link: https://maps.chalmers.se/#6d76b902-5080-42
+ 63-860b-817a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Kl
+ asskod: TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 61394
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260227T121500Z
+DTEND:20260227T140000Z
+UID:61382-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#971e00c6-6f9a-46ce-9894-687adb1fa8ea
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorient
+ erad programmering\, Kurskod: EDA482_50_VT26_49134. Kursna
+ mn: Maskinorienterad programmering\, Aktivitet: Föreläsnin
+ g\, Lokalnamn: HA1. Lokaltyp: Hörsal. Map link: https://ma
+ ps.chalmers.se/#971e00c6-6f9a-46ce-9894-687adb1fa8ea. Hus:
+  Hörsalslängan. Campus: Johanneberg\, Klasskod: TKITE-2\, 
+ Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 61382
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260227T141500Z
+DTEND:20260227T160000Z
+UID:61324-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#e1633b1c-d885-4c7f-aa9e-2013d9a617c5
+SUMMARY:Kurskod: DAT510_50_VT26_52117. Kursnamn: Design och kon
+ struktion av datorspel\, Aktivitet: Datorövning\, Lokalnamn:
+  SB-D509. Lokaltyp: Datorsal. Map link: https://maps.chalmer
+ s.se/#e1633b1c-d885-4c7f-aa9e-2013d9a617c5. Hus: SB2. Campus
+ : Johanneberg\, Lokalnamn: SB-L516. Lokaltyp: Lektionssal. M
+ ap link: https://maps.chalmers.se/#68da14d7-f5bc-4135-a232-8
+ 3625a85791b. Hus: SB2. Campus: Johanneberg\, Klasskod: TKITE
+ -3\, Klasskod: TKITE-2
+LOCATION:
+DESCRIPTION:ID 61324
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260227T141500Z
+DTEND:20260227T160000Z
+UID:81347-569704435-0@timeedit.com
+DTSTAMP:20260130T125719Z
+LAST-MODIFIED:20260130T125719Z
+URL:https://maps.chalmers.se/#17b84900-803a-4b56-afc9-f0910862a410
+SUMMARY:Kurskod: DAT017_50_VT26_52113. Kursnamn: Maskinorientera
+ d programmering\, Kurskod: EDA482_50_VT26_49134. Kursnamn: Ma
+ skinorienterad programmering\, Aktivitet: Datorövning\, Lokal
+ namn: ES62. Lokaltyp: Datorsal. Map link: https://maps.chalme
+ rs.se/#17b84900-803a-4b56-afc9-f0910862a410. Hus: ED-blocket.
+  Campus: Johanneberg\, Lokalnamn: ES63. Lokaltyp: Datorsal. M
+ ap link: https://maps.chalmers.se/#6d76b902-5080-4263-860b-81
+ 7a3d74269d. Hus: ED-blocket. Campus: Johanneberg\, Klasskod: 
+ TKITE-2\, Klasskod: TKDAT-1
+LOCATION:
+DESCRIPTION:ID 81347
+END:VEVENT
+END:VCALENDAR
