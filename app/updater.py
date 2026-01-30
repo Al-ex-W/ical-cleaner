@@ -6,7 +6,7 @@ OUT = Path("data/calendar.ics")
 
 def update_calendar():
     resp = requests.get(TIMEEDIT_URL, timeout=10)
-    resp.encoding = resp.apparent_encoding
+    resp.encoding = "latin-1"
     raw_ics = resp.text
 
     # v1: just store it verbatim
