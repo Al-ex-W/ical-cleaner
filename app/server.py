@@ -16,6 +16,6 @@ def get_calendar():
         CAL_PATH.read_bytes(),
         media_type="text/calendar",
         headers={
-            "Cache-Control": "public, max-age=3600"
+            "Cache-Control": "public, max-age=600"
         }
     )

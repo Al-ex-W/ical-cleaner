@@ -3,3 +3,4 @@ uvicorn
 requests
 python-dateutil
 icalendar
+langchain-openai
